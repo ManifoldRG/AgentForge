@@ -4,7 +4,7 @@ In this guide, you will get an overview of the contribution workflow for the com
 
 ## New contributor guide
 
-To get an overview of the project, read the README. We also have project-related documentation available at Manifold Google Drive.
+To get an overview of the project, read the README. We also have project-related documentation available at [Manifold Google Drive](https://drive.google.com/drive/folders/15_dqh_2x_3g4A-uujflet6Oa6o9G4Oo1?usp=sharing).
 
 ## Solve an issue
 
